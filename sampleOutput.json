@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Attempted murder arrests after Birmingham stabbing",
+      "description": "The victim was taken to hospital with a slash injury, but is now in a stable condition, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg2k0zzdx8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9450/live/da0b8330-6209-11ef-827d-7795342cfd7d.jpg",
+      "publishedAt": "2024-08-24T19:37:18.0112439Z",
+      "content": "Four people have been arrested on suspicion of attempted murder after a man suffered serious injuries in a stabbing in Birmingham.\r\nPolice were called to the junction of Dudley Road and Bellefield Ro… [+289 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Manhunt underway in France after synagogue 'terror attack'",
+      "description": "France's Interior Minister Gerald Darmanin called the incident \"an obviously criminal act\".",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3d4v43gjo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/03d6/live/a34b2070-61fb-11ef-a540-65e290d90fe3.jpg",
+      "publishedAt": "2024-08-24T18:22:23.7572446Z",
+      "content": "Police sources told French media that one of the vehicles contained a hidden gas cannister.\r\nThe suspect also set fire to several entrance doors of the synagogue, officials said.\r\nJewish community le… [+2719 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Starliner: Astronauts stuck in space will return with SpaceX",
+      "description": "Nasa said Sunita Williams and Butch Wilmore would not return to Earth until February 2025.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy47w9yndpo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10c8/live/2b2b1480-623f-11ef-a6f3-c750a7f3281c.jpg",
+      "publishedAt": "2024-08-24T18:22:22.2107535Z",
+      "content": "Boeing and SpaceX were both awarded billion-dollar contracts by Nasa to provide commercial space flights for its astronauts. Boeings was worth $4.2bn (£3.18bn) while SpaceX got $2.6bn.\r\nWhile SpaceX … [+959 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "German police arrest boy accused of knowing about fatal knife attack in advance",
+      "description": "Police said they cannot rule out a \"terrorist\" motive after the attack in the city of Solingen.",
+      "url": "https://www.bbc.co.uk/news/articles/cd73292p1vpo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c491/live/4e8b3ed0-6232-11ef-8c32-f3c2bc7494c6.jpg",
+      "publishedAt": "2024-08-24T16:52:14.5071513Z",
+      "content": "The 15-year-old connected to the case was detained this morning after two women reported overhearing a conversation between him and a second person in which they discussed the attack, the police said… [+2099 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Justin Bieber and wife Hailey Bieber announce birth of baby",
+      "description": "The Canadian singer shared a picture of his newborn son's small feet being held by new mother, Hailey.",
+      "url": "https://www.bbc.co.uk/news/articles/crlr289ykj1o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8190/live/51033590-61e3-11ef-a80d-7bdbb13f9d91.jpg",
+      "publishedAt": "2024-08-24T16:22:14.2103904Z",
+      "content": "Known for his hit-songs Baby, Love Me and Yummy, Justin rose to fame as a singer when he was just 13 years old. \r\nLast year, Justin was forced to cancel the remaining dates of his Justice world tour … [+404 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Sicily yacht press conference: Five things we learned",
+      "description": "Investigators examining the sinking of a luxury yacht that killed seven people have outlined what they know six days on.",
+      "url": "https://www.bbc.co.uk/news/articles/clyl9jjnqzro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b4c0/live/a991da60-6218-11ef-8ab7-cb8eb46d9f95.jpg",
+      "publishedAt": "2024-08-24T15:52:14.0229542Z",
+      "content": "A manslaughter investigation has been opened into the deaths of seven people in the sinking. \r\nBritish tech businessman Mike Lynch and his 18-year-old daughter Hannah lost their lives, alongside Morg… [+1268 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Sicily yacht sinking: Italian investigators consider manslaughter",
+      "description": "Authorities now believe a localised, powerful wind known as a downburst may have caused the sinking.",
+      "url": "https://www.bbc.co.uk/news/articles/cjdk0nd9n4zo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f0c5/live/e23719d0-6212-11ef-8ab7-cb8eb46d9f95.jpg",
+      "publishedAt": "2024-08-24T12:52:15.9744502Z",
+      "content": "The bodies of Jonathan Bloomer, a Morgan Stanley International bank chairman, his wife Judy Bloomer, Clifford Chance lawyer Chris Morvillo, and his wife Neda Morvillo were also recovered from the wre… [+1295 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Kamala Harris banks on hunger for change, with few policy details",
+      "description": "The campaign is light on policy, writes Anthony Zurcher - so can energy alone beat Donald Trump?",
+      "url": "https://www.bbc.co.uk/news/articles/cged20l3nq8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6c56/live/3248b2e0-615e-11ef-b43e-6916dcba5cbf.png",
+      "publishedAt": "2024-08-24T08:22:18.5541953Z",
+      "content": "The month since Kamala Harris launched her presidential campaign has been a largely unprecedented spell in American politics: never has a modern general election campaign gone from a standstill to a … [+1884 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "The Bachelor: How a double amputee became Ukraine's most desirable man",
+      "description": "So many women applied to appear beside Oleksandr Budko on The Bachelor that the show's website crashed.",
+      "url": "https://www.bbc.co.uk/news/articles/clywj08d89no",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c169/live/cc1cdeb0-607c-11ef-8c32-f3c2bc7494c6.jpg",
+      "publishedAt": "2024-08-24T01:22:09.8213516Z",
+      "content": "Oleksandr is always on the go, telling me he spent the previous night filming a music video.\r\nHis life wasnt always like this. In the years before Russia's full-scale invasion, he was working as a ba… [+1293 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "RFK Jr suspends campaign to 'throw support' behind Trump",
+      "description": "The third-party candidate said he no longer has \"a realistic path to victory in the face of systematic censorship\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwy5ekxlwzgo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cc10/live/a8a46930-6180-11ef-8c59-8955ba72b898.png",
+      "publishedAt": "2024-08-23T19:52:13.3366127Z",
+      "content": "The decision effectively brings to an end a campaign fuelled by Mr Kennedy's anti-vax views, and coloured by stories of dead bears and brain worms. His polling has slumped from a high of double figur… [+862 chars]"
+    }
+  ]
+}
